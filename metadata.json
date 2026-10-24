@@ -1,0 +1,6 @@
+{
+  "name": "KARE Facilities & Campus Operations Portal",
+  "description": "Centralized facility issue reporting, priority tracking, and maintenance management for Kalasalingam Academy of Research and Education (Kalasalingam University).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
